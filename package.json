@@ -48,7 +48,7 @@
     "@react-navigation/bottom-tabs": "^7.4.0",
     "@react-navigation/elements": "^2.6.3",
     "@react-navigation/native": "^7.1.8",
-    "@supabase/supabase-js": "^2.76.1",
+    "@supabase/supabase-js": "^2.87.1",
     "@types/node": "^24.10.1",
     "@xtuc/ieee754": "^1.2.0",
     "@xtuc/long": "^4.2.2",
