@@ -100,7 +100,7 @@
     "lint-staged": "^16.2.6",
     "patch-package": "^8.0.1",
     "prettier": "^3.6.2",
-    "supabase": "^2.53.6",
+    "supabase": "^2.72.9",
     "ts-node": "^10.9.2",
     "typescript": "~5.9.2"
   },
